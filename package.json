@@ -1,0 +1,13 @@
+{
+  "name": "@rhisiartk/react-component-library",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RhisiartK/react-component-library.git",
+  "author": {
+    "name": "Richárd Kéki",
+    "email": "kricsi14@gmail.com",
+    "url": "https://github.com/RhisiartK"
+  },
+  "license": "MIT",
+  "private": false
+}
