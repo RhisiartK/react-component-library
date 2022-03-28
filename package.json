@@ -8,6 +8,9 @@
     "email": "kricsi14@gmail.com",
     "url": "https://github.com/RhisiartK"
   },
+  "scripts": {
+    "commit": "cz"
+  },
   "license": "MIT",
   "private": false,
   "devDependencies": {
